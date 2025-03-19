@@ -1,135 +1,49 @@
-# Angellina
+# Angellina A/P Mahesvaran  
 
- 
-
-#### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
-
- 
+#### Bachelor of Computer Science (Cyber Security) (Honours)
 
 ## 🚀 About Me  
-
-I am a **Senior Lecturer at Universiti Tenaga Nasional (UNITEN)** specializing in **AI-driven analytics, IoT solutions, smart metering, and predictive energy systems**. With over **15 years of experience**, I have collaborated extensively with **Tenaga Nasional Berhad (TNB)** on projects involving **non-technical loss detection, smart grid optimization, and energy fraud prevention**. My work bridges **academia and industry**, focusing on AI applications that enhance **grid reliability, energy security, and sustainability**.
-
- 
+I am a **final-year Cyber Security student at Universiti Tenaga Nasional** with strong problem-solving skills and proficiency in **C++, Python, Java, Shell Scripting, and Assembly (8086)**. I also have experience in **web development (HTML, CSS, JavaScript, PHP, SQL)** and **networking (Cisco CCNA 1)**. Additionally, I am skilled in **Ubuntu Server, Windows, and Canva**. I am actively seeking an **internship opportunity** to gain hands-on experience, apply my knowledge in real-world scenarios, and learn from experienced professionals.  
 
 ## 🛠 Technical Skills  
-
-- **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
-
-- **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
-
-- **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
-
-- **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
-
-- **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
-
- 
+- **Programming:** C++, Python, Java, Shell Script, Assembly Code (8086)  
+- **Web Development:** HTML, CSS, JavaScript, PHP, SQL  
+- **Networking:** Cisco CCNA 1  
+- **Operating Systems:** Ubuntu Server, Windows  
+- **Design Tools:** Canva  
+- **Soft Skills:** Communication, Teamwork, Willingness to Learn, Time Management  
+- **Languages:** English, Malay, Tamil  
 
 ## 🎓 Education  
-
-- **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
-
-- **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
-
-- **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
-
- 
+- **Bachelor of Computer Science (Cyber Security) (Honours)** | Universiti Tenaga Nasional (Jan 2023 – Present) | **CGPA: 3.56**  
+- **Foundation in Computer Science** | Universiti Tenaga Nasional (Jan 2021 - Dec 2022) | **CGPA: 3.95**  
+- **SPM** | SMK Jalan Bukit (2016 - 2020)  
 
 ## 💼 Work Experience  
-
-### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
-
-- Developed AI-powered **non-technical loss detection systems** for TNB, reducing fraud detection time.  
-
-- Designed IoT-based **solar-powered monitoring systems** for renewable energy optimization.  
-
-- Conducted **technical training & workshops** on AI, IoT, and predictive energy analytics.  
-
- 
-
-### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
-
-- Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
-
-- Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
-
- 
-
-### **Consultancy & Industry Projects**  
-
-- **Smart Billing Data Analytics for TNB:** AI-driven fraud detection system, reducing non-technical losses by **10%**.  
-
-- **Low Intelligent Network System (LINES) for Predictive Maintenance:** Detecting electricity fraud across **9 million smart meters**.  
-
-- **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
-
-- **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
-
- 
+### **Data Entry Clerk @ Tanjung Setia Maju Enterprise (2021 - 2022)**  
 
 ## 📂 Projects  
+### 🔹 Caesar Cipher Encryption Tool (C++)  
+- Developed a **C++ program** for encrypting and decrypting text using the **Caesar cipher**, showcasing skills in **cryptography and string manipulation**.  
+- 🔗 [GitHub Repository](https://github.com/AshleyLina/Ceaser-Cipher)  
 
-### 🔹 AI-Based Renewable Energy Forecasting  
+### 🔹 Food Order Management System (C++)  
+- Developed a **C++ food order system** to handle **orders, billing, and menu management**, using **file handling and object-oriented programming**.  
+- 🔗 [GitHub Repository](https://github.com/ashleylina/food-order-management-system-)  
 
-- Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
-
-- Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
-
- 
-
-### 🔹 AI-Powered Smart Grid Analytics  
-
-- Created **AMI (Advanced Metering Infrastructure) analytics tools** for real-time **grid failure prediction**.  
-
-- Designed **worst-performing feeder (WPF) analytics**, reducing downtime and optimizing power distribution.  
-
- 
-
-### 🔹 IoT & Smart Metering Solutions  
-
-- Built a **data analytics platform** for predictive maintenance in **TNB smart metering systems**.  
-
-- Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
-
- 
+### 🔹 Keylogger (Python)  
+- Developed a **Python keylogger** that **records and saves keystrokes** using **pynput**, highlighting skills in **event tracking and data logging**.  
+- 🔗 [GitHub Repository](https://github.com/ashleylina/KeyLogger)  
 
 ## 🎤 Talks & Workshops  
+- **Lighthouse: 5 Stages of Grief** – May 2024  
+- **Traditional Costume Run | Secretariat** – July 2024  
+- **AEIF Logo Competition Winner** – September 2024  
 
-- **AI in Energy Analytics** - UNITEN Industry Forum  
-
-- **IoT for Smart Grid & Predictive Maintenance** - TNB Training Academy  
-
-- **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
-
- 
-
-## 🏆 Publications & Research  
-
-- Published **39 peer-reviewed papers** in **AI, Smart Grids, IoT, and Power Systems**.  
-
-- **Scopus h-index: 6** with **119 citations** and **13 ISI-indexed papers**.  
-
-- **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
-
- 
-
-## 🏅 Certifications & Professional Memberships  
-
-- **Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)**  
-
-- **Corporate Member - Institute of Engineers Malaysia (IEM)**  
-
-- **Certified Python Programmer for Data Science**  
-
-- **Certified Cybersecurity Specialist**  
-
-- **Industrial IoT (IIoT) Developer**  
-
- 
+## 🏆 Certifications & Achievements  
+- **Dean’s List** (Semester 1, 4, 6)  
+- **Cisco CCNA 1 (Aug 2023 – Dec 2023)**  
+  - 🔗 [Certification Link](https://drive.google.com/file/d/1iitWGjPg--RC0gus9EHswadFZc5qjK5l/view?usp=sharing)  
 
 ## 📢 Connect with Me  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
-
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
+📧 angellinalxna@gmail.com  
