@@ -28,7 +28,7 @@ I am a **final-year Cyber Security student at Universiti Tenaga Nasional** with 
 - 🔗 [GitHub Repository](https://github.com/AshleyLina/Ceaser-Cipher)  
 
 ### 🔹 Food Order Management System (C++)  
-- Developed a **C++ food order system** to handle **orders, billing, and menu management**, using **file handling and object-oriented programming**.  
+- Developed a **C++ food order system** to handle **orders, billing and menu management**, using **file handling and object-oriented programming**.  
 - 🔗 [GitHub Repository](https://github.com/ashleylina/food-order-management-system-)  
 
 ### 🔹 Keylogger (Python)  
